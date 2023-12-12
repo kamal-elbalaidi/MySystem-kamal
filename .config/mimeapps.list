@@ -1,0 +1,15 @@
+[Added Associations]
+text/x-log=nvim.desktop;
+text/plain=nvim.desktop;
+inode/directory=nnn.desktop;
+image/png=nsxiv.desktop;
+image/svg+xml=nsxiv.desktop;
+
+[Default Applications]
+text/*=vi.desktop
+html/*=vim.desktop
+Electron/*=vim.desktop
+minor/major=vim.desktop
+text/plain=vim.desktop
+application/x-zerosize=firefox.desktop
+image/svg+xml=nsxiv.desktop
