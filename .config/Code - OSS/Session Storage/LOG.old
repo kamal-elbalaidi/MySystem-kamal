@@ -1,5 +1,5 @@
-2023/12/11-18:42:05.377 ef0 Recovering log #128
-2023/12/11-18:42:05.377 ef0 Level-0 table #130: started
-2023/12/11-18:42:05.377 ef0 Level-0 table #130: 0 bytes OK
-2023/12/11-18:42:05.392 ef0 Delete type=0 #128
-2023/12/11-18:42:05.392 ef0 Delete type=3 #126
+2023/12/16-13:14:47.921 8d7 Recovering log #208
+2023/12/16-13:14:47.925 8d7 Level-0 table #210: started
+2023/12/16-13:14:47.925 8d7 Level-0 table #210: 0 bytes OK
+2023/12/16-13:14:47.949 8d7 Delete type=3 #206
+2023/12/16-13:14:47.949 8d7 Delete type=0 #208

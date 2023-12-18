@@ -2,10 +2,11 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/kamal": "__default__profile__"
+            "file:///home/kamal": "__default__profile__",
+            "file:///home/kamal/dwm": "__default__profile__"
         },
         "emptyWindows": {
-            "1702307277140": "__default__profile__"
+            "1702839501957": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -16,19 +17,19 @@
         "folders": [],
         "emptyWindows": [
             {
-                "backupFolder": "1702307277140"
+                "backupFolder": "1702839501957"
             }
         ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/kamal/.config/Code - OSS/Backups/1702307277140",
+            "backupPath": "/home/kamal/.config/Code - OSS/Backups/1702839501957",
             "uiState": {
                 "mode": 1,
-                "x": 3,
-                "y": 29,
-                "width": 744,
-                "height": 736
+                "x": 7,
+                "y": 33,
+                "width": 740,
+                "height": 728
             }
         },
         "openedWindows": []
@@ -36,7 +37,7 @@
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",
     "windowSplash": {
-        "zoomLevel": 1,
+        "zoomLevel": -2,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
@@ -106,6 +107,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/kamal/dwm",
+                                        "path": "/home/kamal/dwm",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwm"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/kamal",
                                         "path": "/home/kamal",
                                         "scheme": "file"
@@ -120,12 +132,78 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/kamal/MySystem/suckless/slstatus/config.h",
+                                        "path": "/home/kamal/MySystem/suckless/slstatus/config.h",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/MySystem/suckless/slstatus/config.h"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kamal/dwm/patch/dwm-status2d-6.2.diff",
+                                        "path": "/home/kamal/dwm/patch/dwm-status2d-6.2.diff",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwm/patch/dwm-status2d-6.2.diff"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kamal/dwm/dwm.c.rej",
+                                        "path": "/home/kamal/dwm/dwm.c.rej",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dwm/dwm.c.rej"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kamal/SUCKLESS/slstatus/config.h",
+                                        "path": "/home/kamal/SUCKLESS/slstatus/config.h",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/SUCKLESS/slstatus/config.h"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/kamal/.config/gtk-3.0/gtk.css",
                                         "path": "/home/kamal/.config/gtk-3.0/gtk.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.config/gtk-3.0/gtk.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kamal/.config/terminator/config",
+                                        "path": "/home/kamal/.config/terminator/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/terminator/config"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/kamal/hh.t",
+                                        "path": "/home/kamal/hh.t",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/hh.t"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -159,72 +237,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/t1"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/kamal/bicono/bicon/Makefile.am",
-                                        "path": "/home/kamal/bicono/bicon/Makefile.am",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/bicono/bicon/Makefile.am"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/kamal/hh.bb",
-                                        "path": "/home/kamal/hh.bb",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/hh.bb"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/kamal/sent/example",
-                                        "path": "/home/kamal/sent/example",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/sent/example"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/kamal/test/dwm/LICENSE",
-                                        "path": "/home/kamal/test/dwm/LICENSE",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/test/dwm/LICENSE"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/kamal/test/dwmmm/config.h",
-                                        "path": "/home/kamal/test/dwmmm/config.h",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/test/dwmmm/config.h"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/kamal/config.h",
-                                        "path": "/home/kamal/config.h",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/config.h"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -353,12 +365,20 @@
                                     "label": "&&Settings"
                                 },
                                 {
+                                    "id": "workbench.view.extensions",
+                                    "label": "&&Extensions"
+                                },
+                                {
                                     "id": "workbench.action.openGlobalKeybindings",
                                     "label": "Keyboard Shortcuts"
                                 },
                                 {
                                     "id": "workbench.action.openSnippets",
                                     "label": "Configure User Snippets"
+                                },
+                                {
+                                    "id": "workbench.action.tasks.openUserTasks",
+                                    "label": "User Tasks"
                                 },
                                 {
                                     "id": "submenuitem.ThemesSubMenu",
@@ -766,6 +786,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -854,8 +881,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -863,8 +889,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1342,6 +1367,10 @@
                 "label": "Ctrl+,",
                 "userSettingsLabel": "ctrl+,"
             },
+            "workbench.view.extensions": {
+                "label": "Ctrl+Shift+X",
+                "userSettingsLabel": "ctrl+shift+x"
+            },
             "workbench.action.openGlobalKeybindings": {
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
@@ -1503,6 +1532,11 @@
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
             },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
+            },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
                 "userSettingsLabel": "shift+alt+0"
@@ -1522,10 +1556,6 @@
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
-            },
-            "workbench.view.extensions": {
-                "label": "Ctrl+Shift+X",
-                "userSettingsLabel": "ctrl+shift+x"
             },
             "workbench.actions.view.problems": {
                 "label": "Ctrl+Shift+M",
